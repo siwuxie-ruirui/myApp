@@ -1,0 +1,27 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwuxie-ruirui/myApp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siwuxie-ruirui/myApp/issues"
+  },
+  "homepage": "https://github.com/siwuxie-ruirui/myApp#readme",
+  "dependencies": {
+    "angular": "1.4.8",
+    "angular-resource": "1.4.8",
+    "angular-ui-bootstrap": "0.13.3",
+    "angular-ui-router": "0.2.15",
+    "bootstrap": "3.3.5",
+    "lodash": "4.17.2"
+  }
+}
